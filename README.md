@@ -15,4 +15,4 @@ Extended McM *downtime* is because this operation, in addition to being highly h
 
 Those 2.2B events will get high priority >110k  (Block 0 - PPD Operations), with POG samples for SF slightly higher than the PAG ones. All the progress can be monitored in GrASP via the tag **PPD_OPS_GT**. We expect to recover this backlog between 2 and 3 weeks at the cost of pausing the ongoing workflows that would be in lower priority.
 
-In more technical terms, the Run3Summer23BPix MC Campaign should have the ￼`130X_mcRun3_2023_realistic_postBPix_v[1,2,6]`￼, while the Run3Summer23 should have `130X_mcRun3_2023_realistic_v[14,15]`.
+In more technical terms, the Run3Summer23BPix MC Campaign should have the `130X_mcRun3_2023_realistic_postBPix_v[2,6]`, while the Run3Summer23 should have `130X_mcRun3_2023_realistic_v[14,15]`.
